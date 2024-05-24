@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+
   const arrowLeft = document.querySelector(".arrow_left");
   const arrowRight = document.querySelector(".arrow_right");
   const dotContainer = document.querySelector(".dots ");
@@ -73,4 +73,4 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
   }
-});
+;
